@@ -1,0 +1,6 @@
+timestamp,ethylene,temp_c,rh_percent,fan_status,treatment_status,data_type
+2026-09-30 10:00,0.12,25.4,68,ON,ON,sample
+2026-09-30 10:05,0.15,25.6,69,ON,ON,sample
+2026-09-30 10:10,0.18,25.8,70,ON,ON,sample
+2026-09-30 10:15,0.14,25.7,69,ON,ON,sample
+2026-09-30 10:20,0.11,25.5,67,OFF,OFF,sample
